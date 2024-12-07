@@ -37,3 +37,7 @@ A proposta do aplicativo visa melhorar a experiência dos usuários, oferecendo 
 - Edição de descrições de obras e locais.
 - A cesso e edição do perfil do administrador, com opção de logout
 
+
+# Instalação
+Para instalar o Aplicativo ForMuseuMap, siga estes passos:
+

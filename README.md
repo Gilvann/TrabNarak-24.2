@@ -15,9 +15,6 @@ O Aplicativo ForMuseuMap foi desenvolvido para atender à necessidade de facilit
 
 A proposta do aplicativo visa melhorar a experiência dos usuários, oferecendo uma forma intuitiva e interativa de explorar o espaço cultural, proporcionando também aos administradores uma ferramenta eficaz para gerenciar e atualizar o conteúdo exibido. Com isso, busca-se oferecer uma experiência mais rica e educativa para os visitantes, facilitando o acesso e a compreensão dos temas e exposições do museu.
 
-Além disso, o aplicativo oferece uma funcionalidade especial para administradores. Quando logados, os administradores podem acessar e editar informações sobre as obras, incluindo título, descrição e outros detalhes. Isso facilita a manutenção e atualização contínua das exposições, garantindo que o conteúdo esteja sempre atualizado e adequado às necessidades do espaço cultural.
-
-O projeto foi desenvolvido por Manoel Gilvan e Gustavo, na disciplina de Plataformas Móveis, com o objetivo de criar uma ferramenta eficiente e dinâmica que potencializa a experiência cultural tanto para o público quanto para os responsáveis pela gestão do espaço.
 
 # Funcionalidades
 

@@ -1,5 +1,8 @@
 # TrabNarak-24.2 - Plataformas Móveis - Turma T197
 
+# Relatório final
+[Template.Trabalho.Disp.Moveis.pdf.pdf](https://github.com/user-attachments/files/18049932/Template.Trabalho.Disp.Moveis.pdf.pdf)
+
 
 # Integrantes 
 

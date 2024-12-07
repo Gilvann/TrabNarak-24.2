@@ -41,6 +41,9 @@ A proposta do aplicativo visa melhorar a experiência dos usuários, oferecendo 
 # Instalação
 Para instalar o Aplicativo ForMuseuMap, siga estes passos:
 
+```
+git clone https://github.com/Gilvann/TrabNarak-24.2.git
+```
 
 Abra no Android Studio
 

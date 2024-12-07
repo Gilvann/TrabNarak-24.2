@@ -28,7 +28,6 @@ A proposta do aplicativo visa melhorar a experiência dos usuários, oferecendo 
 - Acesso a detalhes das obras, incluindo nome, imagem e descrição.
 - Opção de ouvir a descrição das obras em áudio.
 - Interação com um chatbot para mais informações.
-- Navegação entre obras deslizando para os lados.
 - Acesso a uma tela de suporte para contato.
 
 ### Para Administradores:

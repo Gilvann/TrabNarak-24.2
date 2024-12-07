@@ -66,3 +66,20 @@ Conecte seu dispositivo Android ou inicie um emulador.
 Clique no botão "Run" ou selecione Run > Run 'app'.
 ```
 
+# Screenshots
+
+- Tela inicial (visitante)
+![image](https://github.com/user-attachments/assets/ffd66623-a508-4ed7-88e1-a96dba89a523)
+
+- Tela de lista de obras (ADM)
+![image](https://github.com/user-attachments/assets/48b247de-694b-4c7f-b74b-02c972278ce7)
+
+- Tela Obra (Visitante)
+![image](https://github.com/user-attachments/assets/ba36537d-90d2-43d3-a1c5-ec76a224ff7e)
+
+
+
+
+
+
+

@@ -13,9 +13,9 @@ Este projeto foi desenvolvido por Manoel Gilvan e Gustavo na disciplina de Plata
 
 # Visão Geral
 
-O Aplicativo Espaço Cultural UNIFOR foi criado para melhorar a experiência dos visitantes no espaço cultural da Universidade de Fortaleza. Desenvolvido em Kotlin com o framework Jetpack Compose, o aplicativo oferece uma navegação intuitiva e interativa, tanto para usuários quanto para administradores.
+O Aplicativo Espaço Cultural UNIFOR foi desenvolvido para atender à necessidade de facilitar a navegação e a contextualização no espaço cultural da Universidade de Fortaleza. Observando a falta de um mapa interativo e informativo, o objetivo do projeto foi criar uma solução digital que auxilie os visitantes a se localizarem nas diferentes áreas do museu, ao mesmo tempo em que proporciona informações relevantes sobre as obras e artistas.
 
-Ao acessar uma obra dentro do aplicativo, os usuários podem interagir com Gemni, uma inteligência artificial integrada que responde a perguntas sobre as obras e fornece informações detalhadas, enriquecendo a visitação com conteúdos explicativos e contextuais. Isso permite uma experiência mais envolvente e educativa para os visitantes, promovendo uma imersão no universo artístico da UNIFOR.
+A proposta do aplicativo visa melhorar a experiência dos usuários, oferecendo uma forma intuitiva e interativa de explorar o espaço cultural, proporcionando também aos administradores uma ferramenta eficaz para gerenciar e atualizar o conteúdo exibido. Com isso, busca-se oferecer uma experiência mais rica e educativa para os visitantes, facilitando o acesso e a compreensão dos temas e exposições do museu.
 
 Além disso, o aplicativo oferece uma funcionalidade especial para administradores. Quando logados, os administradores podem acessar e editar informações sobre as obras, incluindo título, descrição e outros detalhes. Isso facilita a manutenção e atualização contínua das exposições, garantindo que o conteúdo esteja sempre atualizado e adequado às necessidades do espaço cultural.
 

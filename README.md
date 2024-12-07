@@ -9,8 +9,6 @@
 Manoel Gilvan Magalhães Neto e Gustavo Furtado de Holanda Bastos
 
 
-Este projeto foi desenvolvido por Manoel Gilvan e Gustavo na disciplina de Plataformas Móveis. O trabalho consiste em um aplicativo que permite ao usuário explorar diferentes áreas e obras, com funcionalidades voltadas tanto para usuários quanto para administradores.
-
 # Visão Geral
 
 O Aplicativo ForMuseuMap foi desenvolvido para atender à necessidade de facilitar a navegação e a contextualização no espaço cultural da Universidade de Fortaleza. Observando a falta de um mapa interativo e informativo, o objetivo do projeto foi criar uma solução digital que auxilie os visitantes a se localizarem nas diferentes áreas do museu, ao mesmo tempo em que proporciona informações relevantes sobre as obras e artistas.

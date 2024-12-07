@@ -44,16 +44,22 @@ Para instalar o Aplicativo ForMuseuMap, siga estes passos:
 
 Abra no Android Studio
 
-``Abra o Android Studio e selecione File > Open.
-Navegue até o repositório clonado e abra-o.``
+```
+Abra o Android Studio e selecione File > Open.
+Navegue até o repositório clonado e abra-o.
+```
 
 Construa o Projeto
 
-``Clique no menu "Build" e selecione "Build Project".
+```
+Clique no menu "Build" e selecione "Build Project".
 Certifique-se de que não há erros antes de continuar.
-Execute o Aplicativo``
+Execute o Aplicativo
+```
 
 Conecte seu dispositivo Android ou inicie um emulador.
 
-``Clique no botão "Run" ou selecione Run > Run 'app'.``
+```
+Clique no botão "Run" ou selecione Run > Run 'app'.
+```
 

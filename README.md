@@ -29,8 +29,6 @@ ForMuseuMap é um aplicativo desenvolvido para melhorar a experiência dos visit
 
 - Lista de Obras: Ao acessar uma área do museu, o visitante pode visualizar uma lista de obras disponíveis. A interface permite que o visitante deslize entre as obras ou clique em uma específica para ver - detalhes adicionais.
 
-- Navegação entre Obras: Ao visualizar uma obra, o visitante pode navegar facilmente entre as obras da área, deslizando para a esquerda ou direita, permitindo uma experiência fluida e contínua.
-
 - Detalhes da Obra: Cada obra exibe informações detalhadas, incluindo o nome, uma imagem representativa e uma descrição informativa, permitindo que o visitante compreenda o contexto e o significado de cada peça.
 
 - Descrição por Áudio: O aplicativo oferece uma opção de descrição por áudio para as obras, permitindo que o visitante ouça informações sobre a obra, proporcionando uma experiência acessível.

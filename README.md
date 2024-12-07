@@ -19,32 +19,22 @@ A proposta do aplicativo visa melhorar a experiência dos usuários, oferecendo 
 # Funcionalidades
 
 ## Funcionalidades do ForMuseuMap
-ForMuseuMap é um aplicativo desenvolvido para melhorar a experiência dos visitantes do museu, oferecendo uma navegação fácil e interativa, além de funcionalidades específicas para administradores que gerenciam as obras e informações do museu. A seguir, estão as principais funcionalidades do aplicativo:
 
-### Funcionalidades para Visitantes
+### Para Visitantes:
 
-- Mapa Interativo do Museu: A tela inicial exibe um mapa do museu com setas indicando cada área, além de uma breve descrição. Ao clicar em uma área, o visitante é redirecionado para a lista de obras dessa área.
+- Visualização de um mapa interativo do museu, com links para as diferentes áreas.
+- Busca por obras de arte específicas.
+- Navegação por listas de obras dentro de cada área.
+- Acesso a detalhes das obras, incluindo nome, imagem e descrição.
+- Opção de ouvir a descrição das obras em áudio.
+- Interação com um chatbot para mais informações.
+- Navegação entre obras deslizando para os lados.
+- Acesso a uma tela de suporte para contato.
 
-- Busca de Obras: O visitante pode procurar por obras específicas usando um botão de busca na tela inicial. Após digitar o nome da obra, o visitante será redirecionado para a página de detalhes dessa obra.
+### Para Administradores:
 
-- Lista de Obras: Ao acessar uma área do museu, o visitante pode visualizar uma lista de obras disponíveis. A interface permite que o visitante deslize entre as obras ou clique em uma específica para ver - detalhes adicionais.
-
-- Detalhes da Obra: Cada obra exibe informações detalhadas, incluindo o nome, uma imagem representativa e uma descrição informativa, permitindo que o visitante compreenda o contexto e o significado de cada peça.
-
-- Descrição por Áudio: O aplicativo oferece uma opção de descrição por áudio para as obras, permitindo que o visitante ouça informações sobre a obra, proporcionando uma experiência acessível.
-
-- Chat com Inteligência Artificial: Na tela de cada obra, o visitante pode interagir com um chatbot baseado em IA. O chat permite fazer perguntas sobre a obra e obter respostas instantâneas para enriquecer a visita.
-
-- Suporte ao Visitante: O aplicativo inclui uma tela de suporte com informações de contato para que os visitantes possam obter ajuda ou resolver dúvidas relacionadas ao museu.
-
-### Funcionalidades para Administradores
-- Login de Administrador: O administrador pode acessar o sistema por meio de uma tela de login, garantindo o acesso seguro às funcionalidades de gerenciamento.
-
-- Gestão de Obras: O administrador pode adicionar novas obras ao museu e excluir obras existentes. Ao adicionar uma nova obra, o administrador insere detalhes como título, descrição e outras informações relevantes, sem a necessidade de imagem.
-
-- Edição de Descrições: O administrador pode editar as descrições de locais e obras para manter o conteúdo atualizado e relevante para os visitantes.
-
-- Reorganização de Obras: O administrador pode alterar a ordem das obras dentro de cada área, permitindo a organização e atualização dinâmica do conteúdo exibido no aplicativo.
-
-- Perfil do Administrador: O administrador tem acesso a uma tela de perfil onde pode visualizar suas informações pessoais, como nome e cargo, além de poder sair do sistema através de um botão de logout.
+- Login seguro para acesso ao sistema de administração.
+- Capacidade de adicionar, excluir e reorganizar obras nas áreas do museu.
+- Edição de descrições de obras e locais.
+- A cesso e edição do perfil do administrador, com opção de logout
 
